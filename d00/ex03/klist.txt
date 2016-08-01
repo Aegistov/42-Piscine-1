@@ -1,0 +1,7 @@
+Credentials cache: API:19660
+        Principal: jcapling@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 12 19:45:37 2016  Jul 13 05:45:37 2016  krbtgt/42.US.ORG@42.US.ORG
+Jul 12 20:01:06 2016  Jul 13 05:45:37 2016  host/vgs-fn1.42.us.org@42.US.ORG
+Jul 12 20:13:52 2016  Jul 13 05:45:37 2016  ldap/ldap-proxy.42.us.org@42.US.ORG

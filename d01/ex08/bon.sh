@@ -1,0 +1,1 @@
+ ldapsearch -Q -LLL "cn=*bon*" cn | grep -v "^dn" | grep -v "^$" | wc -l | tr -d " "
