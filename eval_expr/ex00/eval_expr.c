@@ -50,7 +50,7 @@ double		parse_factors(char **expr)
 		else if (operator == '*')
 			num1 *= num2;
 		else
-			modulus(num1, num2);
+			num1 = modulus(num1, num2);
 	}
 	return (num1);
 }
